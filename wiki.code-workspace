@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "wiki",
+			"path": "."
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false
+	}
+}
